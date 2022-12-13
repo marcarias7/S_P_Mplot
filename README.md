@@ -1,1 +1,1 @@
-simulaciones sistemas dinámicos con python y matplotlib
+Resultados_simulaciones_sistemas_dinámicos_Matplotlib
